@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"雷亞神_3","characterIndex":0,"characterName":"雷亞神_1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"雷亞神","traits":[],"initialLevel":1,"maxLevel":99,"name":"雷亞神","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"曦光_3","characterIndex":0,"characterName":"曦光_1","classId":2,"equips":[2,0,2,3,0],"faceIndex":0,"faceName":"曦光","traits":[],"initialLevel":1,"maxLevel":99,"name":"曦光","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"蕭防_3","characterIndex":0,"characterName":"蕭防_1","classId":3,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"蕭防","traits":[],"initialLevel":1,"maxLevel":99,"name":"蕭防","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
